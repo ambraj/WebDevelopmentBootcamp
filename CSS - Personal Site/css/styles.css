@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    font-family: Merriweather, serif;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+}
+
+.profile {
+    margin: 70px auto 70px auto;
+}
+
+.skills {
+    margin: 70px auto 70px auto;
+}
+
+hr {
+    height: 0px;
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #EAF6F6;
+}
+
+h1 {
+    margin-top: 50px auto 0 auto;
+    font-size: 5.26rem;
+    font-family: Sacramento;
+    font-weight: regular;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: Montserrat, serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: Montserrat, serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 65%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 65%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-skill-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-skill-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.computer-skill-desc {
+    line-height: 2;
+}
+
+.chillies-skill-desc {
+    line-height: 2;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.cloud1 {
+    position: relative;
+    left: 300px;
+    padding-top: 5%;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 300px;
+}
