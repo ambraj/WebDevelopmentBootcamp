@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     text-align: center;
     font-family: Merriweather, serif;
 }
@@ -46,6 +47,9 @@ h3 {
 
 a {
     color: #11999E;
+    font-family: Montserrat, serif;
+    margin: 10px 20px;
+    text-decoration: none;
 }
 
 .skill-row {
@@ -95,4 +99,31 @@ a {
 .cloud2 {
     position: absolute;
     left: 300px;
+}
+
+.BUTTON_AGN {
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    color: #FFFFFF;
+    font-family: open sans;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 15px 10px 15px;
+    background-color: #11999E;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 40px auto 80px auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 20px 0;
+}
+
+.copyright{
+    color: white;
+    padding-top: 40px;
 }
