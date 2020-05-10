@@ -70,35 +70,41 @@ p {
     color: #ff4c68;
 }
 
-#testimonials{
+#testimonials {
     text-align: center;
     background-color: #ef8172;
-    padding: 7% 15%;
 }
-h2{
+
+h2 {
     font-family: "Montserrat";
     font-weight: 900;
     font-size: 2.5rem;
     color: white;
     line-height: 1.5;
 }
-.testimonial-img{
+
+.testimonial-img {
     width: 12%;
     border-radius: 100%;
     margin: 20px;
 }
-em{
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+em {
     color: white;
     font-weight: 700;
 }
 
-#press{
+#press {
     text-align: center;
     background-color: #ef8172;
     padding-bottom: 3%;
 }
 
-.press-icon{
+.press-icon {
     width: 15%;
     margin: 20px 20px 50px;
 }
