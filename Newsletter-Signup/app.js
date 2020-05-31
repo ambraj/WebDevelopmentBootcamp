@@ -51,7 +51,7 @@ app.post("/", (req, resp) => {
         });
     });
 
-    // request.write(jsonData);
+    request.write(jsonData);
     request.end();
 });
 
